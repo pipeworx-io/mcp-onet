@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/onet",
   "title": "Onet",
   "description": "O*NET MCP — wraps the O*NET Web Services (US DOL) occupation taxonomy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/onet",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-onet",
